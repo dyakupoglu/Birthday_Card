@@ -20,12 +20,6 @@ Birthday card project is created for a lovely gift and developed with love.
    git clone https://github.com/dyakupoglu/Birthday_Card.git
    ```
 
-2. Install NPM packages on both client and server side
-
-   ```sh
-   npm install
-   ```
-
 ## License
 
 Licensed under the [MIT License]()
